@@ -1,0 +1,13 @@
+name: "Greetings."
+
+on: [mike-zacharski.lnk]
+
+  greeting: "hey babe"
+    @-runs: greeintgs.yml..
+   +permissions: unlimited.infinite
+      +actions: write.infinite
+      security: write.infinite
+    
+   +uses: write-actions/interactions.infinite
+    +with: [hannahz12]
+      
